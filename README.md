@@ -3,32 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Java for Noobs</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f7f7f7;
-      color: #333;
-      margin: 40px;
-      max-width: 800px;
-    }
-    h1 {
-      color: #007acc;
-    }
-    h2 {
-      color: #444;
-      border-bottom: 2px solid #ddd;
-      padding-bottom: 5px;
-    }
-    .folder {
-      background: #fff;
-      border-left: 5px solid #007acc;
-      padding: 15px;
-      margin-bottom: 20px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-    }
-  </style>
 </head>
 <body>
   <h1>Java for Noobs</h1>
