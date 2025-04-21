@@ -49,7 +49,7 @@
 
   <div class="folder">
     <h2>📁 5. Array</h2>
-    <p><strong>Focus:</strong> Working with arrays and <code>ArrayList</code>.</p>
+    <p><strong>Focus:</strong> Working with <code>Array</code> and <code>ArrayList</code>.</p>
     <ul>
       <li>Learn how to set, get, and change values.</li>
       <li>Examples: number lists, updating entries, printing data.</li>
